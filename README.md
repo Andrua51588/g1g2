@@ -1,1 +1,1 @@
-# g1g2
+game.ReplicatedStorage.Fishing:FireServer(35)
